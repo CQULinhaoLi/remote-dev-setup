@@ -150,7 +150,6 @@ mkdir -p /data1/llh/tmp
 ```bash
 /data1/llh/
 ├── conda/          # Conda 环境及包缓存（已配置在 .condarc 中）
-├── pip_cache/      # pip 缓存目录（通过 PIP_CACHE_DIR 设置）
 ├── projects/       # 存放各个项目代码和运行日志
 ├── datasets/       # 数据集存放目录
 ├── models/         # 模型保存目录
