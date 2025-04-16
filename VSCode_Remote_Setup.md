@@ -183,5 +183,3 @@ sudo chown -R llh:llh /data1/llh
 - pip 缓存目录重定向：设置环境变量 `PIP_CACHE_DIR`，并清理旧缓存；
 - 安装 PyTorch：在环境中使用 pip 安装 PyTorch 及依赖，并处理大文件下载时的磁盘空间问题；
 - 项目数据存储：如何将项目数据、模型、日志保存到 `/data1/llh/` 下。
-
-将本指南保存到 GitHub 后，你就能轻松快速地复现、调整或扩展你的开发环境与部署流程。
